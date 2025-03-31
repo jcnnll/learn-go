@@ -2,9 +2,9 @@
 Given 2 strings, determine whether the second string is an anagram of the first.
 
 ## Concrete examples
-`ooz` is an anagram of `zoo`
-`abba` is not an anagram, it's a palindrome
-`abc` is not an anagram of `def`
+- `ooz` is an anagram of `zoo`
+- `abba` is not an anagram, it's a palindrome
+- `abc` is not an anagram of `def`
 
 ## Rules
 - A valid anagram has the same letters as the original word in a diffrent order
